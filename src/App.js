@@ -117,7 +117,12 @@ function App() {
 
        {/* Imagen decorativa con frase motivacional */}
         <section className="text-center">
-          <img src={decor2} alt="Decoración inspiradora" className="mx-auto rounded-xl shadow-lg max-w-xl mb-4" />
+        <img
+        src={decor2}
+        alt="Decoración inspiradora"
+        className="w-full max-w-md sm:max-w-xl h-auto mx-auto rounded-xl shadow-lg mb-4"
+        />
+
           <p className="text-lg italic text-pink-600">“Detalles únicos que despiertan sonrisas.”</p>
         </section>
 
