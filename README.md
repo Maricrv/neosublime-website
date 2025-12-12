@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# NeoSublime – Learning Project (React)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains a small web project created primarily as a **learning exercise to better understand React and frontend development concepts**.
 
-## Available Scripts
+The project was inspired by a real small business idea, which provided a practical context for building and deploying a website from scratch.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Project background
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+After working on other websites using pre-built templates, I wanted to gain a deeper and more hands-on understanding of React.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To achieve this, I decided to build a simple website from scratch, using a real scenario as motivation: a small personalized-products business idea being explored by a family member in Peru.
 
-### `npm test`
+The business itself did not continue using a website as part of its strategy, so the project was not further expanded. However, the learning objective was successfully achieved.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Learning goals
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The main goals of this project were to:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Practice building a React application from scratch  
+- Better understand component structure and state management  
+- Learn how to organize a simple frontend project  
+- Deploy a React application to a hosting platform  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The website was deployed to Render as part of this learning process:
+https://neosublime.onrender.com/
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## My contribution
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This was an individual learning project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+I worked on:
+- Designing and building the website from scratch  
+- Structuring components and basic navigation  
+- Experimenting with layout and content organization  
+- Deploying the application and validating it in a live environment  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The focus was on learning and experimentation rather than creating a production-ready business website.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Project status
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is not actively maintained.  
+It remains in this repository as a learning artifact and as part of my personal portfolio.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Notes
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This repository represents a completed learning cycle rather than an active commercial project.
